@@ -1,2 +1,2 @@
 # HW-simonov
-Hw
+Variant #1
