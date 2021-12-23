@@ -92,9 +92,7 @@ int main(int argc, char** argv) {
                 cout << Index; // Вывод номера промежутка
             }
         }
-        else {
-            cout << "Unable to open file" << endl; // Если невозможно открыть файл
-        }
+        
     }
     else {
         cout << "there are no arguments or there are more of them than we expect" << endl; // Если некорректное кол-во аргументов
